@@ -2,6 +2,9 @@
   "status": "success",
   "data": [
     {
+      "id": "134tnwgspiohfjsandf",
+      "color": "#7A36BC",
+      "hero": "https://i.ytimg.com/vi/T8U_Nc9CmBI/maxresdefault.jpg",
       "name": "Sherlock Holmes walking route",
       "description": "Sherlock holmes is one of the most famous fictional characters. Though he is not real, it doesn't mean that places he visited are fake. Want to know more about Sherlock, to feel the rythm of the city, to become a part of something misterious? Follow me!",
       "approx_time": "4-5h",
@@ -212,14 +215,14 @@
                 ]
               ],
               "approx_time": "7min"
-            },
+            }
           ],
           "approx_time": "1h"
         }
       ],
       "pois": [
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyghj2k3rexfd",
           "name": "Baker Street Station",
           "location": {
             "type": "Point",
@@ -237,7 +240,7 @@
           ]
         },
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyghj22k3refd",
           "name": "The Sherlock Holmes Museum",
           "location": {
             "type": "Point",
@@ -258,7 +261,7 @@
           ]
         },
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyghj2k3r3efd",
           "name": "A statue of Sherlock Holmes",
           "location": {
             "type": "Point",
@@ -276,7 +279,7 @@
           ]
         },
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyghj2uk3refd",
           "name": "Sherlock Holmes Pub",
           "location": {
             "type": "Point",
@@ -295,7 +298,7 @@
           ]
         },
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyghj2kz3refd",
           "name": "Old SCotland Yard",
           "location": {
             "type": "Point",
@@ -314,7 +317,7 @@
           ]
         },
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyghij2k3refd",
           "name": "Charing Cross Station",
           "location": {
             "type": "Point",
@@ -335,7 +338,7 @@
           ]
         },
         {
-          "id": "7tyghj2k3refd",
+          "id": "7tyg7hj2k3refd",
           "name": "Simpson's in the Strand",
           "location": {
             "type": "Point",
@@ -356,269 +359,272 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9802yuhjtewgdsd",
+      "color": "#bc36bc",
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/1280px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg",
+      "name": "Few hours in London",
+      "description": "Top-5 places in London which everyone should have a look at being in London",
+      "approx_time": "3-4h",
+      "paths": [
+        {
+          "path_type": "main",
+          "type": "GeometryCollection",
+          "geometries": [
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.128060,
+                  51.508053
+                ],
+                [
+                  -0.1280658,
+                  51.50805200000001
+                ],
+                [
+                  -0.128288,
+                  51.508942
+                ]
+              ],
+              "approx_time": "2min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.128288,
+                  51.508942
+                ],
+                [
+                  -0.1282475,
+                  51.5084722
+                ],
+                [
+                  -0.1291799,
+                  51.5083046
+                ],
+                [
+                  -0.1310649,
+                  51.50773419999999
+                ],
+                [
+                  -0.1310264,
+                  51.5076863
+                ],
+                [
+                  -0.1378963,
+                  51.5051517
+                ],
+                [
+                  -0.137817,
+                  51.504597
+                ]
+              ],
+              "approx_time": "3min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.137817,
+                  51.504597
+                ],
+                [
+                  -0.1381183,
+                  51.5049059
+                ],
+                [
+                  -0.1402542,
+                  51.5041685
+                ],
+                [
+                  -0.1399406,
+                  51.50387010000001
+                ],
+                [
+                  -0.1413515,
+                  51.50324699999999
+                ],
+                [
+                  -0.1411736,
+                  51.502674
+                ],
+                [
+                  -0.141890,
+                  51.501411
+                ]
+              ],
+              "approx_time": "3min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.141890,
+                  51.501411
+                ],
+                [
+                  -0.1381183,
+                  51.5049059
+                ],
+                [
+                  -0.1402542,
+                  51.5041685
+                ],
+                [
+                  -0.1399406,
+                  51.50387010000001
+                ],
+                [
+                  -0.1413515,
+                  51.50324699999999
+                ],
+                [
+                  -0.1411736,
+                  51.502674
+                ],
+                [
+                  -0.124636,
+                  51.500769
+                ]
+              ],
+              "approx_time": "3min"
+            }
+          ],
+          "approx_time": "1h"
+        }
+      ],
+      "pois": [
+        {
+          "id": "7tygh8j2k3refd",
+          "name": "Trafalgar Square",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.128060,
+              51.508053
+            ]
+          },
+          "description": "Trafalgar Square is a public square in the City of Westminster, Central London, built around the area formerly known as Charing Cross. Its name commemorates the Battle of Trafalgar, a British naval victory in the Napoleonic Wars with France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar, Spain.",
+          "approx_time": "30m",
+          "photos": [
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/1280px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg"
+            },
+            {
+              "link": "https://www.london.gov.uk/sites/default/files/feast-of-st-george-2081-2x1.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyg1hj2k3refd",
+          "name": "The National Gallery",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.128288,
+              51.508942
+            ]
+          },
+          "description": "The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London. Founded in 1824, it houses a collection of over 2,300 paintings dating from the mid-13th century to 1900. The Gallery is an exempt charity, and a non-departmental public body of the Department for Culture, Media and Sport. Its collection belongs to the government on behalf of the British public, and entry to the main collection is free of charge. It is among the most visited art museums in the world, after the Louvre, the British Museum, and the Metropolitan Museum of Art.",
+          "approx_time": "1.5h",
+          "photos": [
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_035.JPG/1200px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_035.JPG"
+            },
+            {
+              "link": "https://www.artfund.org/assets/what-to-see/museums-and-galleries/n-p/national-gallery/p3864-005.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3prefd",
+          "name": "St James's Palace",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.137817,
+              51.504597
+            ]
+          },
+          "description": "St James's Palace is the most senior royal palace in the United Kingdom. Located in the City of Westminster, although no longer the principal residence of the monarch, it is the ceremonial meeting place of the Accession Council and the London residence of several minor members of the royal family. Built by King Henry VIII on the site of a leper hospital dedicated to Saint James the Less, the palace was secondary in importance to the Palace of Whitehall for most Tudor and Stuart monarchs. The palace increased in importance during the reigns of the early Georgian monarchy, but was displaced by Buckingham Palace in the late-18th and early-19th centuries. After decades of being used increasingly for only formal occasions, the move was formalised by Queen Victoria in 1837. Today the palace houses a number of official offices, societies and collections and all ambassadors and high commissioners to the United Kingdom are still accredited to the Court of St James's.",
+          "approx_time": "30m",
+          "photos": [
+            {
+              "link": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e5/2c/c6/photo1jpg.jpg"
+            },
+            {
+              "link": "https://www.royal.uk/sites/default/files/images/feature/pa-12077961_0.jpg"
+            },
+            {
+              "link": "https://strawberrytours.com/images/LondonArticles/LandMarks/StJamessPalace/gallery/St-James-Palace-Friary-Court.jpg"
+            },
+            {
+              "link": "http://i.dailymail.co.uk/i/pix/2016/06/27/23/1C7A098100000578-0-image-a-8_1467067738981.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3_refd",
+          "name": "Buckingham Palace",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.141890,
+              51.501411
+            ]
+          },
+          "description": "Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+          "approx_time": "45m",
+          "photos": [
+            {
+              "link": "https://www.royal.uk/sites/default/files/images/feature/buckingham-palace.jpg"
+            },
+            {
+              "link": "https://cdn.londonandpartners.com/visit/london-organisations/buckingham-palace/100222-640x360-buckingham-palace-at-dusk-640.jpg"
+            },
+            {
+              "link": "https://static.homesandproperty.co.uk/s3fs-public/thumbnails/image/2016/09/19/12/buckinghampalacegetty.jpg"
+            },
+            {
+              "link": "http://www.buckinghampalace.co.uk/assets/images/bp3.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3refd",
+          "name": "Big Ben",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.124636,
+              51.500769
+            ]
+          },
+          "description": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower. The tower is officially Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; before that, it was known simply as the Clock Tower.",
+          "approx_time": "30m",
+          "photos": [
+            {
+              "link": "https://cdn.londonandpartners.com/visit/london-organisations/big-ben/100225-640x360-elisabeth-tower-clock-face-640.jpg"
+            },
+            {
+              "link": "http://www.lonelyplanet.com/news/wp-content/uploads/2017/08/London.jpg"
+            },
+            {
+              "link": "https://thumbnails.trvl-media.com/UBbUzBS8y6L7P3CpyTYifoPuBPA=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/178279/Big-Ben-20648.jpg"
+            },
+            {
+              "link": "https://cdn.images.express.co.uk/img/dynamic/139/590x/secondary/Big-Ben-1034726.jpg"
+            }
+          ]
+        }
+      ]
     }
-    // {
-    //   "name": "Few hours in London",
-    //   "description": "Top-5 places in London which everyone should have a look at being in London",
-    //   "approx_time": "3-4h",
-    //   "paths": [
-    //     {
-    //       "path_type": "main",
-    //       "type": "GeometryCollection",
-    //       "geometries": [
-    //         {
-    //           "leg_type": "walk",
-    //           "type": "LineString",
-    //           "coordinates": [
-    //             [
-    //               -0.128060,
-    //               51.508053
-    //             ],
-    //             [
-    //               -0.1280658,
-    //               51.50805200000001
-    //             ],
-    //             [
-    //               -0.128288,
-    //               51.508942
-    //             ]
-    //           ],
-    //           "approx_time": "2min"
-    //         },
-    //         {
-    //           "leg_type": "walk",
-    //           "type": "LineString",
-    //           "coordinates": [
-    //             [
-    //               -0.128288,
-    //               51.508942
-    //             ],
-    //             [
-    //               -0.1282475,
-    //               51.5084722
-    //             ],
-    //             [
-    //               -0.1291799,
-    //               51.5083046
-    //             ],
-    //             [
-    //               -0.1310649,
-    //               51.50773419999999
-    //             ],
-    //             [
-    //               -0.1310264,
-    //               51.5076863
-    //             ],
-    //             [
-    //               -0.1378963,
-    //               51.5051517
-    //             ],
-    //             [
-    //               -0.137817,
-    //               51.504597
-    //             ],
-    //           ],
-    //           "approx_time": "3min"
-    //         },
-    //         {
-    //           "leg_type": "walk",
-    //           "type": "LineString",
-    //           "coordinates": [
-    //             [
-    //               -0.137817,
-    //               51.504597
-    //             ],
-    //             [
-    //               -0.1381183,
-    //               51.5049059
-    //             ],
-    //             [
-    //               -0.1402542,
-    //               51.5041685
-    //             ],
-    //             [
-    //               -0.1399406,
-    //               51.50387010000001
-    //             ],
-    //             [
-    //               -0.1413515,
-    //               51.50324699999999
-    //             ],
-    //             [
-    //               -0.1411736,
-    //               51.502674
-    //             ],
-    //             [
-    //               -0.141890,
-    //               51.501411
-    //             ]
-    //           ],
-    //           "approx_time": "3min"
-    //         },
-    //         {
-    //           "leg_type": "walk",
-    //           "type": "LineString",
-    //           "coordinates": [
-    //             [
-    //               -0.141890,
-    //               51.501411
-    //             ],
-    //             [
-    //               -0.1381183,
-    //               51.5049059
-    //             ],
-    //             [
-    //               -0.1402542,
-    //               51.5041685
-    //             ],
-    //             [
-    //               -0.1399406,
-    //               51.50387010000001
-    //             ],
-    //             [
-    //               -0.1413515,
-    //               51.50324699999999
-    //             ],
-    //             [
-    //               -0.1411736,
-    //               51.502674
-    //             ],
-    //             [
-    //               -0.124636,
-    //               51.500769
-    //             ]
-    //           ],
-    //           "approx_time": "3min"
-    //         },
-    //       ],
-    //       "approx_time": "1h"
-    //     }
-    //   ],
-    //   "pois": [
-    //     {
-    //       "id": "7tyghj2k3refd",
-    //       "name": "Trafalgar Square",
-    //       "location": {
-    //         "type": "Point",
-    //         "coordinates": [
-    //           -0.128060,
-    //           51.508053
-    //         ]
-    //       },
-    //       "description": "Trafalgar Square is a public square in the City of Westminster, Central London, built around the area formerly known as Charing Cross. Its name commemorates the Battle of Trafalgar, a British naval victory in the Napoleonic Wars with France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar, Spain.",
-    //       "approx_time": "30m",
-    //       "photos": [
-    //         {
-    //           "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/1280px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg"
-    //         },
-    //         {
-    //           "link": "https://www.london.gov.uk/sites/default/files/feast-of-st-george-2081-2x1.jpg"
-    //         }
-    //       ]
-    //     },
-    //     {
-    //       "id": "7tyghj2k3refd",
-    //       "name": "The National Gallery",
-    //       "location": {
-    //         "type": "Point",
-    //         "coordinates": [
-    //           -0.128288,
-    //           51.508942
-    //         ]
-    //       },
-    //       "description": "The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London. Founded in 1824, it houses a collection of over 2,300 paintings dating from the mid-13th century to 1900. The Gallery is an exempt charity, and a non-departmental public body of the Department for Culture, Media and Sport. Its collection belongs to the government on behalf of the British public, and entry to the main collection is free of charge. It is among the most visited art museums in the world, after the Louvre, the British Museum, and the Metropolitan Museum of Art.",
-    //       "approx_time": "1.5h",
-    //       "photos": [
-    //         {
-    //           "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_035.JPG/1200px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_035.JPG"
-    //         },
-    //         {
-    //           "link": "https://www.artfund.org/assets/what-to-see/museums-and-galleries/n-p/national-gallery/p3864-005.jpg"
-    //         }
-    //       ]
-    //     },
-    //     {
-    //       "id": "7tyghj2k3refd",
-    //       "name": "St James's Palace",
-    //       "location": {
-    //         "type": "Point",
-    //         "coordinates": [
-    //           -0.137817,
-    //           51.504597
-    //         ]
-    //       },
-    //       "description": "St James's Palace is the most senior royal palace in the United Kingdom. Located in the City of Westminster, although no longer the principal residence of the monarch, it is the ceremonial meeting place of the Accession Council and the London residence of several minor members of the royal family. Built by King Henry VIII on the site of a leper hospital dedicated to Saint James the Less, the palace was secondary in importance to the Palace of Whitehall for most Tudor and Stuart monarchs. The palace increased in importance during the reigns of the early Georgian monarchy, but was displaced by Buckingham Palace in the late-18th and early-19th centuries. After decades of being used increasingly for only formal occasions, the move was formalised by Queen Victoria in 1837. Today the palace houses a number of official offices, societies and collections and all ambassadors and high commissioners to the United Kingdom are still accredited to the Court of St James's.",
-    //       "approx_time": "30m",
-    //       "photos": [
-    //         {
-    //           "link": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e5/2c/c6/photo1jpg.jpg"
-    //         },
-    //         {
-    //           "link": "https://www.royal.uk/sites/default/files/images/feature/pa-12077961_0.jpg"
-    //         },
-    //         {
-    //           "link": "https://strawberrytours.com/images/LondonArticles/LandMarks/StJamessPalace/gallery/St-James-Palace-Friary-Court.jpg"
-    //         },
-    //         {
-    //           "link": "http://i.dailymail.co.uk/i/pix/2016/06/27/23/1C7A098100000578-0-image-a-8_1467067738981.jpg"
-    //         }
-    //       ]
-    //     },
-    //     {
-    //       "id": "7tyghj2k3refd",
-    //       "name": "Buckingham Palace",
-    //       "location": {
-    //         "type": "Point",
-    //         "coordinates": [
-    //           -0.141890,
-    //           51.501411
-    //         ]
-    //       },
-    //       "description": "Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
-    //       "approx_time": "45m",
-    //       "photos": [
-    //         {
-    //           "link": "https://www.royal.uk/sites/default/files/images/feature/buckingham-palace.jpg"
-    //         },
-    //         {
-    //           "link": "https://cdn.londonandpartners.com/visit/london-organisations/buckingham-palace/100222-640x360-buckingham-palace-at-dusk-640.jpg"
-    //         },
-    //         {
-    //           "link": "https://static.homesandproperty.co.uk/s3fs-public/thumbnails/image/2016/09/19/12/buckinghampalacegetty.jpg"
-    //         },
-    //         {
-    //           "link": "http://www.buckinghampalace.co.uk/assets/images/bp3.jpg"
-    //         }
-    //       ]
-    //     },
-    //     {
-    //       "id": "7tyghj2k3refd",
-    //       "name": "Big Ben",
-    //       "location": {
-    //         "type": "Point",
-    //         "coordinates": [
-    //           -0.124636,
-    //           51.500769
-    //         ]
-    //       },
-    //       "description": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower. The tower is officially Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; before that, it was known simply as the Clock Tower.",
-    //       "approx_time": "30m",
-    //       "photos": [
-    //         {
-    //           "link": "https://cdn.londonandpartners.com/visit/london-organisations/big-ben/100225-640x360-elisabeth-tower-clock-face-640.jpg"
-    //         },
-    //         {
-    //           "link": "http://www.lonelyplanet.com/news/wp-content/uploads/2017/08/London.jpg"
-    //         },
-    //         {
-    //           "link": "https://thumbnails.trvl-media.com/UBbUzBS8y6L7P3CpyTYifoPuBPA=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/178279/Big-Ben-20648.jpg"
-    //         },
-    //         {
-    //           "link": "https://cdn.images.express.co.uk/img/dynamic/139/590x/secondary/Big-Ben-1034726.jpg"
-    //         }
-    //       ]
-    //     }
-    //   ]
-    // }
   ]
 }
