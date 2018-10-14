@@ -1,0 +1,342 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "9087tyug3h2b1jntrewfdbc",
+      "name": "Sherlock Holmes walking route",
+      "paths": [
+        {
+          "path_type": "main",
+          "type": "GeometryCollection",
+          "geometries": [
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  51.523198,
+                  -0.156842
+                ],
+                [
+                  51.523794,
+                  -0.158556
+                ]
+              ],
+              "approx_time": "10m",
+              "approx_price": "5$",
+              "label": "blahblahblah"
+            }
+          ],
+          "approx_price": "20$",
+          "approx_time": "2h"
+        },
+        {
+          "path_type": "main",
+          "type": "GeometryCollection",
+          "geometries": [
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  51.508053,
+                  -0.12806
+                ],
+                [
+                  51.501377,
+                  -0.14189
+                ]
+              ],
+              "approx_time": "30min",
+              "approx_price": "5$",
+              "label": "blahblahblah"
+            }
+          ],
+          "approx_price": "20$",
+          "approx_time": "2h"
+        }
+      ],
+      "pois": [
+        {
+          "id": "5b4e4f2946f59c63f30c87c1",
+          "name": "Baker Street Station",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.508092,
+              -0.129138
+            ]
+          },
+          "description": "Baker Street Station",
+          "approx_time": "30m",
+          "approx_price": "20$",
+          "photos": [
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BakerStTilework_fxcr_wb.jpg"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 20,
+                "currency": "USD"
+              },
+              "fixed": true,
+              "description": "payments"
+            }
+          ]
+        },
+        {
+          "id": "5b4e4f2946f59c63f30c87c2",
+          "name": "The Sherlock Holmes Museum",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.523794,
+              -0.158556
+            ]
+          },
+          "description": "The Sherlock Holmes Museum is a privately run museum in London, England, dedicated to the famous fictional detective Sherlock Holmes. It opened in 1990 and is situated in Baker Street, bearing the number 221B by permission of the City of Westminster, although it lies between numbers 237 and 241, near the north end of Baker Street in central London close to Regent's Park.",
+          "approx_time": "60m",
+          "approx_price": "",
+          "photos": [
+            {
+              "link": "https://i.ytimg.com/vi/T8U_Nc9CmBI/maxresdefault.jpg"
+            },
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sherlock_Holmes_Museum_001.jpg"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 20,
+                "currency": "USD"
+              },
+              "fixed": true,
+              "description": "payments"
+            }
+          ]
+        },
+        {
+          "id": "5b4e4f2946f59c63f30c87c3",
+          "name": "A statue of Sherlock Holmes",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.522551,
+              -0.156621
+            ]
+          },
+          "description": "A statue of Sherlock Holmes by the sculptor John Doubleday stands near the supposed site of 221B Baker Street, the fictional detective's address in London. Unveiled on 23 September 1999, the sculpture was funded by the Abbey National building society, whose headquarters were on the purported site of the famous address. As no site was available on Baker Street itself the statue was installed outside Baker Street tube station, on Marylebone Road. Doubleday had previously produced a statue of Holmes for the town of Meiringen in Switzerland, below the Reichenbach Falls whence the detective fell to his apparent death in the story The Final Problem.",
+          "approx_time": "15m",
+          "approx_price": "",
+          "photos": [
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sherlock_Holmes_Statue%2C_Edinburgh.JPG"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 2,
+                "currency": "GBP"
+              },
+              "fixed": true,
+              "description": "payments"
+            }
+          ]
+        },
+        {
+          "id": "5b4e4f2946f59c63f30c87c4",
+          "name": "Sherlock Holmes Pub",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.507374,
+              -0.125297
+            ]
+          },
+          "description": "A bar made specially for Sherlock Holmes bar. The menu can be found here https://www.greeneking-pubs.co.uk/pubs/greater-london/sherlock-holmes/menu/main-menu",
+          "approx_time": "45m",
+          "approx_price": "30pounds",
+          "photos": [
+            {
+              "link": "https://media-cdn.tripadvisor.com/media/photo-s/01/52/50/14/sherlock-holmes-pub.jpg"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 30,
+                "currency": "GBP"
+              },
+              "fixed": false,
+              "description": "Drinks in a Sherlock bar. Few glasses of goot British beer!"
+            }
+          ]
+        },
+        {
+          "id": "5b4e4f2946f59c63f30c87c5",
+          "name": "Old SCotland Yard",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.506685,
+              -0.125615
+            ]
+          },
+          "description": "You know what is it, right?",
+          "approx_time": "15m",
+          "approx_price": "",
+          "photos": [
+            {
+              "link": "https://newsnation1.s3.amazonaws.com/images/2015/04/12/605809472-scotland-yard-hq_6.jpg"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 20,
+                "currency": "USD"
+              },
+              "fixed": true,
+              "description": "payments"
+            }
+          ]
+        },
+        {
+          "id": "5b4e4f2946f59c63f30c87c5",
+          "name": "Charing Cross Station",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.508055,
+              -0.126194
+            ]
+          },
+          "description": "Different characters of the novel are coming to this stations. Sherlock Holmes was knocked out his left canine in the waiting room",
+          "approx_time": "15m",
+          "approx_price": "",
+          "photos": [
+            {
+              "link": "https://cdn.londonandpartners.com/asset/689fa87dc04d0bb05ee19f2e97f0c817.jpg"
+            },
+            {
+              "link": "http://www.fivestarairportcars.com/userfiles/image/Charing%20Cross.jpg"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 20,
+                "currency": "USD"
+              },
+              "fixed": true,
+              "description": "payments"
+            }
+          ]
+        },
+        {
+          "id": "5b4e4f2946f59c63f30c87c6",
+          "name": "Simpson's in the Strand",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              51.510571,
+              -0.120554
+            ]
+          },
+          "description": "Dr. Watson and Sherlock Holmes few times visit this restaurant, which servers Londoners already for few centures!",
+          "approx_time": "90m",
+          "approx_price": "60-80 pounds",
+          "photos": [
+            {
+              "link": "http://www.hot-dinners.com/images/stories/blog/2017/simpsonsstrand2.jpg"
+            },
+            {
+              "link": "http://www.londonleben.co.uk/.a/6a00d8341c7d2053ef019101d590ba970c-pi"
+            }
+          ],
+          "type": "shop",
+          "interests": [
+            {
+              "id": "148rua2gwrsgag",
+              "title": "shop",
+              "color": "#cecece"
+            }
+          ],
+          "payments": [
+            {
+              "value": {
+                "amount": 70,
+                "currency": "GBP"
+              },
+              "fixed": false,
+              "description": "food"
+            }
+          ]
+        }
+      ],
+      "description": "Sherlock holmes is one of the most famous fictional characters. Though he is not real, it doesn't mean that places he visited are fake. Want to know more about Sherlock, to feel the rythm of the city, to become a part of something misterious? Follow me!",
+      "approx_time": "4-5h",
+      "approx_price": "100$",
+      "rating": "3/5",
+      "interests": [
+        {
+          "id": "148rua2gwrsgag",
+          "title": "history",
+          "color": "#cecece"
+        }
+      ]
+    }
+  ]
+}
