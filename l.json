@@ -2,8 +2,10 @@
   "status": "success",
   "data": [
     {
-      "id": "9087tyug3h2b1jntrewfdbc",
       "name": "Sherlock Holmes walking route",
+      "description": "Sherlock holmes is one of the most famous fictional characters. Though he is not real, it doesn't mean that places he visited are fake. Want to know more about Sherlock, to feel the rythm of the city, to become a part of something misterious? Follow me!",
+      "approx_time": "4-5h",
+      "approx_price": "100$",
       "paths": [
         {
           "path_type": "main",
@@ -14,98 +16,238 @@
               "type": "LineString",
               "coordinates": [
                 [
-                  51.523198,
-                  -0.156842
+                  -0.156842,
+                  51.523198
                 ],
                 [
-                  51.523794,
-                  -0.158556
+                  -0.1583397,
+                  51.5239285
+                ],
+                [
+                  -0.1582986,
+                  51.5238406
+                ],
+                [
+                  -0.158556,
+                  51.523794
                 ]
               ],
-              "approx_time": "10m",
-              "approx_price": "5$",
-              "label": "blahblahblah"
-            }
-          ],
-          "approx_price": "20$",
-          "approx_time": "2h"
-        },
-        {
-          "path_type": "main",
-          "type": "GeometryCollection",
-          "geometries": [
+              "approx_time": "2min"
+            },
             {
               "leg_type": "walk",
               "type": "LineString",
               "coordinates": [
                 [
-                  51.508053,
-                  -0.12806
+                  -0.158556,
+                  51.523794
                 ],
                 [
-                  51.501377,
-                  -0.14189
+                  -0.157564,
+                  51.5222935
+                ],
+                [
+                  -0.15712,
+                  51.5223786
+                ],
+                [
+                  -0.1565812,
+                  51.5224671
+                ],
+                [
+                  -0.156621,
+                  51.522551
                 ]
               ],
-              "approx_time": "30min",
-              "approx_price": "5$",
-              "label": "blahblahblah"
-            }
+              "approx_time": "3min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.156621,
+                  51.522551
+                ],
+                [
+                  -0.155574,
+                  51.522682
+                ],
+                [
+                  -0.1552542,
+                  51.5225871
+                ],
+                [
+                  -0.148947,
+                  51.5233721
+                ],
+                [
+                  -0.1478573,
+                  51.5234539
+                ],
+                [
+                  -0.1462494,
+                  51.5228905
+                ],
+                [
+                  -0.142271,
+                  51.5160807
+                ],
+                [
+                  -0.1345676,
+                  51.5100913
+                ],
+                [
+                  -0.133293,
+                  51.51012799999999
+                ],
+                [
+                  -0.1310649,
+                  51.50773419999999
+                ],
+                [
+                  -0.130908,
+                  51.5077745
+                ],
+                [
+                  -0.128837,
+                  51.5075637
+                ],
+                [
+                  -0.1278296,
+                  51.5075873
+                ],
+                [
+                  -0.1253706,
+                  51.5070588
+                ],
+                [
+                  -0.1253953,
+                  51.5073188
+                ],
+                [
+                  -0.125297,
+                  51.507374
+                ]
+              ],
+              "approx_time": "44min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.125297,
+                  51.507374
+                ],
+                [
+                  -0.1253706,
+                  51.5070588
+                ],
+                [
+                  -0.1249472,
+                  51.5069825
+                ],
+                [
+                  -0.1254158,
+                  51.5064495
+                ],
+                [
+                  -0.125615,
+                  51.506685
+                ]
+              ],
+              "approx_time": "2min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.125615,
+                  51.506685
+                ],
+                [
+                  -0.1249472,
+                  51.5069825
+                ],
+                [
+                  -0.1253706,
+                  51.5070588
+                ],
+                [
+                  -0.126497,
+                  51.508004
+                ],
+                [
+                  -0.1262728,
+                  51.5081161
+                ],
+                [
+                  -0.126194,
+                  51.508055
+                ]
+              ],
+              "approx_time": "3min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.126194,
+                  51.508055
+                ],
+                [
+                  -0.1205611,
+                  51.5107773
+                ],
+                [
+                  -0.1204235,
+                  51.5106134
+                ],
+                [
+                  -0.120554,
+                  51.510571
+                ]
+              ],
+              "approx_time": "7min"
+            },
           ],
-          "approx_price": "20$",
-          "approx_time": "2h"
+          "approx_time": "1h"
         }
       ],
       "pois": [
         {
-          "id": "5b4e4f2946f59c63f30c87c1",
+          "id": "7tyghj2k3refd",
           "name": "Baker Street Station",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.508092,
-              -0.129138
+              -0.156842,
+              51.523198
             ]
           },
-          "description": "Baker Street Station",
-          "approx_time": "30m",
-          "approx_price": "20$",
+          "description": "",
+          "approx_time": "10m",
           "photos": [
             {
               "link": "https://upload.wikimedia.org/wikipedia/commons/b/b1/BakerStTilework_fxcr_wb.jpg"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 20,
-                "currency": "USD"
-              },
-              "fixed": true,
-              "description": "payments"
-            }
           ]
         },
         {
-          "id": "5b4e4f2946f59c63f30c87c2",
+          "id": "7tyghj2k3refd",
           "name": "The Sherlock Holmes Museum",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.523794,
-              -0.158556
+              -0.158556,
+              51.523794
             ]
           },
           "description": "The Sherlock Holmes Museum is a privately run museum in London, England, dedicated to the famous fictional detective Sherlock Holmes. It opened in 1990 and is situated in Baker Street, bearing the number 221B by permission of the City of Westminster, although it lies between numbers 237 and 241, near the north end of Baker Street in central London close to Regent's Park.",
-          "approx_time": "60m",
+          "approx_time": "1h",
           "photos": [
             {
               "link": "https://i.ytimg.com/vi/T8U_Nc9CmBI/maxresdefault.jpg"
@@ -113,34 +255,16 @@
             {
               "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sherlock_Holmes_Museum_001.jpg"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 20,
-                "currency": "USD"
-              },
-              "fixed": true,
-              "description": "payments"
-            }
           ]
         },
         {
-          "id": "5b4e4f2946f59c63f30c87c3",
+          "id": "7tyghj2k3refd",
           "name": "A statue of Sherlock Holmes",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.522551,
-              -0.156621
+              -0.156621,
+              51.522551
             ]
           },
           "description": "A statue of Sherlock Holmes by the sculptor John Doubleday stands near the supposed site of 221B Baker Street, the fictional detective's address in London. Unveiled on 23 September 1999, the sculpture was funded by the Abbey National building society, whose headquarters were on the purported site of the famous address. As no site was available on Baker Street itself the statue was installed outside Baker Street tube station, on Marylebone Road. Doubleday had previously produced a statue of Holmes for the town of Meiringen in Switzerland, below the Reichenbach Falls whence the detective fell to his apparent death in the story The Final Problem.",
@@ -149,107 +273,54 @@
             {
               "link": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sherlock_Holmes_Statue%2C_Edinburgh.JPG"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 2,
-                "currency": "GBP"
-              },
-              "fixed": true,
-              "description": "payments"
-            }
           ]
         },
         {
-          "id": "5b4e4f2946f59c63f30c87c4",
+          "id": "7tyghj2k3refd",
           "name": "Sherlock Holmes Pub",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.507374,
-              -0.125297
+              -0.125297,
+              51.507374
             ]
           },
           "description": "A bar made specially for Sherlock Holmes bar. The menu can be found here https://www.greeneking-pubs.co.uk/pubs/greater-london/sherlock-holmes/menu/main-menu",
           "approx_time": "45m",
-          "approx_price": "30pounds",
+          "approx_price": "30 pounds",
           "photos": [
             {
               "link": "https://media-cdn.tripadvisor.com/media/photo-s/01/52/50/14/sherlock-holmes-pub.jpg"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 30,
-                "currency": "GBP"
-              },
-              "fixed": false,
-              "description": "Drinks in a Sherlock bar. Few glasses of goot British beer!"
-            }
           ]
         },
         {
-          "id": "5b4e4f2946f59c63f30c87c5",
+          "id": "7tyghj2k3refd",
           "name": "Old SCotland Yard",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.506685,
-              -0.125615
+              -0.125615,
+              51.506685
             ]
           },
           "description": "You know what is it, right?",
           "approx_time": "15m",
+          "approx_price": "30 pounds",
           "photos": [
             {
               "link": "https://newsnation1.s3.amazonaws.com/images/2015/04/12/605809472-scotland-yard-hq_6.jpg"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 20,
-                "currency": "USD"
-              },
-              "fixed": true,
-              "description": "payments"
-            }
           ]
         },
         {
-          "id": "5b4e4f2946f59c63f30c87c5x",
+          "id": "7tyghj2k3refd",
           "name": "Charing Cross Station",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.508055,
-              -0.126194
+              -0.126194,
+              51.508055
             ]
           },
           "description": "Different characters of the novel are coming to this stations. Sherlock Holmes was knocked out his left canine in the waiting room",
@@ -261,39 +332,20 @@
             {
               "link": "http://www.fivestarairportcars.com/userfiles/image/Charing%20Cross.jpg"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 20,
-                "currency": "USD"
-              },
-              "fixed": true,
-              "description": "payments"
-            }
           ]
         },
         {
-          "id": "5b4e4f2946f59c63f30c87c6",
+          "id": "7tyghj2k3refd",
           "name": "Simpson's in the Strand",
           "location": {
             "type": "Point",
             "coordinates": [
-              51.510571,
-              -0.120554
+              -0.120554,
+              51.510571
             ]
           },
           "description": "Dr. Watson and Sherlock Holmes few times visit this restaurant, which servers Londoners already for few centures!",
-          "approx_time": "90m",
-          "approx_price": "60-80 pounds",
+          "approx_time": "1.5h",
           "photos": [
             {
               "link": "http://www.hot-dinners.com/images/stories/blog/2017/simpsonsstrand2.jpg"
@@ -301,36 +353,270 @@
             {
               "link": "http://www.londonleben.co.uk/.a/6a00d8341c7d2053ef019101d590ba970c-pi"
             }
-          ],
-          "type": "shop",
-          "interests": [
-            {
-              "id": "148rua2gwrsgag",
-              "title": "shop",
-              "color": "#cecece"
-            }
-          ],
-          "payments": [
-            {
-              "value": {
-                "amount": 70,
-                "currency": "GBP"
-              },
-              "fixed": false,
-              "description": "food"
-            }
           ]
         }
-      ],
-      "description": "Sherlock holmes is one of the most famous fictional characters. Though he is not real, it doesn't mean that places he visited are fake. Want to know more about Sherlock, to feel the rythm of the city, to become a part of something misterious? Follow me!",
-      "approx_time": "4-5h",
-      "approx_price": "100$",
-      "rating": "3/5",
-      "interests": [
+      ]
+    },
+    {
+      "name": "Few hours in London",
+      "description": "Top-5 places in London which everyone should have a look at being in London",
+      "approx_time": "3-4h",
+      "paths": [
         {
-          "id": "148rua2gwrsgag",
-          "title": "history",
-          "color": "#cecece"
+          "path_type": "main",
+          "type": "GeometryCollection",
+          "geometries": [
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.128060,
+                  51.508053
+                ],
+                [
+                  -0.1280658,
+                  51.50805200000001
+                ],
+                [
+                  -0.128288,
+                  51.508942
+                ]
+              ],
+              "approx_time": "2min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.128288,
+                  51.508942
+                ],
+                [
+                  -0.1282475,
+                  51.5084722
+                ],
+                [
+                  -0.1291799,
+                  51.5083046
+                ],
+                [
+                  -0.1310649,
+                  51.50773419999999
+                ],
+                [
+                  -0.1310264,
+                  51.5076863
+                ],
+                [
+                  -0.1378963,
+                  51.5051517
+                ],
+                [
+                  -0.137817,
+                  51.504597
+                ],
+              ],
+              "approx_time": "3min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.137817,
+                  51.504597
+                ],
+                [
+                  -0.1381183,
+                  51.5049059
+                ],
+                [
+                  -0.1402542,
+                  51.5041685
+                ],
+                [
+                  -0.1399406,
+                  51.50387010000001
+                ],
+                [
+                  -0.1413515,
+                  51.50324699999999
+                ],
+                [
+                  -0.1411736,
+                  51.502674
+                ],
+                [
+                  -0.141890,
+                  51.501411
+                ]
+              ],
+              "approx_time": "3min"
+            },
+            {
+              "leg_type": "walk",
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -0.141890,
+                  51.501411
+                ],
+                [
+                  -0.1381183,
+                  51.5049059
+                ],
+                [
+                  -0.1402542,
+                  51.5041685
+                ],
+                [
+                  -0.1399406,
+                  51.50387010000001
+                ],
+                [
+                  -0.1413515,
+                  51.50324699999999
+                ],
+                [
+                  -0.1411736,
+                  51.502674
+                ],
+                [
+                  -0.124636,
+                  51.500769
+                ]
+              ],
+              "approx_time": "3min"
+            },
+          ],
+          "approx_time": "1h"
+        }
+      ],
+      "pois": [
+        {
+          "id": "7tyghj2k3refd",
+          "name": "Trafalgar Square",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.128060,
+              51.508053
+            ]
+          },
+          "description": "Trafalgar Square is a public square in the City of Westminster, Central London, built around the area formerly known as Charing Cross. Its name commemorates the Battle of Trafalgar, a British naval victory in the Napoleonic Wars with France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar, Spain.",
+          "approx_time": "30m",
+          "photos": [
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/1280px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg"
+            },
+            {
+              "link": "https://www.london.gov.uk/sites/default/files/feast-of-st-george-2081-2x1.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3refd",
+          "name": "The National Gallery",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.128288,
+              51.508942
+            ]
+          },
+          "description": "The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London. Founded in 1824, it houses a collection of over 2,300 paintings dating from the mid-13th century to 1900. The Gallery is an exempt charity, and a non-departmental public body of the Department for Culture, Media and Sport. Its collection belongs to the government on behalf of the British public, and entry to the main collection is free of charge. It is among the most visited art museums in the world, after the Louvre, the British Museum, and the Metropolitan Museum of Art.",
+          "approx_time": "1.5h",
+          "photos": [
+            {
+              "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_035.JPG/1200px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_035.JPG"
+            },
+            {
+              "link": "https://www.artfund.org/assets/what-to-see/museums-and-galleries/n-p/national-gallery/p3864-005.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3refd",
+          "name": "St James's Palace",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.137817,
+              51.504597
+            ]
+          },
+          "description": "St James's Palace is the most senior royal palace in the United Kingdom. Located in the City of Westminster, although no longer the principal residence of the monarch, it is the ceremonial meeting place of the Accession Council and the London residence of several minor members of the royal family. Built by King Henry VIII on the site of a leper hospital dedicated to Saint James the Less, the palace was secondary in importance to the Palace of Whitehall for most Tudor and Stuart monarchs. The palace increased in importance during the reigns of the early Georgian monarchy, but was displaced by Buckingham Palace in the late-18th and early-19th centuries. After decades of being used increasingly for only formal occasions, the move was formalised by Queen Victoria in 1837. Today the palace houses a number of official offices, societies and collections and all ambassadors and high commissioners to the United Kingdom are still accredited to the Court of St James's.",
+          "approx_time": "30m",
+          "photos": [
+            {
+              "link": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e5/2c/c6/photo1jpg.jpg"
+            },
+            {
+              "link": "https://www.royal.uk/sites/default/files/images/feature/pa-12077961_0.jpg"
+            },
+            {
+              "link": "https://strawberrytours.com/images/LondonArticles/LandMarks/StJamessPalace/gallery/St-James-Palace-Friary-Court.jpg"
+            },
+            {
+              "link": "http://i.dailymail.co.uk/i/pix/2016/06/27/23/1C7A098100000578-0-image-a-8_1467067738981.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3refd",
+          "name": "Buckingham Palace",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.141890,
+              51.501411
+            ]
+          },
+          "description": "Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+          "approx_time": "45m",
+          "photos": [
+            {
+              "link": "https://www.royal.uk/sites/default/files/images/feature/buckingham-palace.jpg"
+            },
+            {
+              "link": "https://cdn.londonandpartners.com/visit/london-organisations/buckingham-palace/100222-640x360-buckingham-palace-at-dusk-640.jpg"
+            },
+            {
+              "link": "https://static.homesandproperty.co.uk/s3fs-public/thumbnails/image/2016/09/19/12/buckinghampalacegetty.jpg"
+            },
+            {
+              "link": "http://www.buckinghampalace.co.uk/assets/images/bp3.jpg"
+            }
+          ]
+        },
+        {
+          "id": "7tyghj2k3refd",
+          "name": "Big Ben",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              -0.124636,
+              51.500769
+            ]
+          },
+          "description": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower. The tower is officially Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; before that, it was known simply as the Clock Tower.",
+          "approx_time": "30m",
+          "photos": [
+            {
+              "link": "https://cdn.londonandpartners.com/visit/london-organisations/big-ben/100225-640x360-elisabeth-tower-clock-face-640.jpg"
+            },
+            {
+              "link": "http://www.lonelyplanet.com/news/wp-content/uploads/2017/08/London.jpg"
+            },
+            {
+              "link": "https://thumbnails.trvl-media.com/UBbUzBS8y6L7P3CpyTYifoPuBPA=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/178279/Big-Ben-20648.jpg"
+            },
+            {
+              "link": "https://cdn.images.express.co.uk/img/dynamic/139/590x/secondary/Big-Ben-1034726.jpg"
+            }
+          ]
         }
       ]
     }
